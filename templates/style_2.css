@@ -1,0 +1,45 @@
+body {
+    font-family: system-ui;
+    background: pink;
+    color: white;
+    text-align: center;
+  }
+
+  h1{
+    background: purple;
+  }
+  
+  .contact{
+    color: purple;
+    font-size: 30px;
+    margin-right: 780px;
+  }
+  p{
+    color: purple;
+    font-size: 30px;
+    margin-right: 780px;
+  }
+  .first{
+    color:black;
+    margin-right: 940px;
+  }
+
+  .second{
+    color:black;
+    margin-right: 835px;
+  }
+
+  img {
+    margin-right: 650px;
+    style width: 216. 132px;
+    height: 632px; 
+  }
+  textarea{
+    rows:"10";
+   
+  }
+  h3{
+    color: black;
+    font-size: 25px;
+    margin-right: 835px;
+  }
